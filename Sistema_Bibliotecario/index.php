@@ -2,7 +2,7 @@
 // Inclua os arquivos ou classes diretamente se estiver tudo no mesmo arquivo
 require 'Leitor.php';
 require 'Biblioteca.php';
-require 'Classe Livro.php';
+require 'Livro.php';
 
 // Criando objetos
 $livro1 = new Livro("1984", "George Orwell", 1949);
